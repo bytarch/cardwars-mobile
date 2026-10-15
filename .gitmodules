@@ -1,0 +1,6 @@
+[submodule "CardWarsKingdom"]
+	path = CardWarsKingdom
+	url = https://github.com/shishkabob27/CardWarsKingdom
+[submodule "Card-Wars-Kingdom-Revived"]
+	path = Card-Wars-Kingdom-Revived
+	url = https://github.com/Sgsysysgsgsg/Card-Wars-Kingdom-Revived
